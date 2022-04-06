@@ -25,7 +25,13 @@
   <img align="center" alt="Gams-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gams-Php" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
- 
+  
+  ##
+  
+<div>
+  <a href="www.linkedin.com/in/gamswebdesigner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
+  
 <div><br>
   <img align="left" alt="Gams-pic" height="180px" style="border-radius: 50px;" src="https://thumbs.gfycat.com/LoathsomeAngryEmperorpenguin-size_restricted.gif">
 </div>
