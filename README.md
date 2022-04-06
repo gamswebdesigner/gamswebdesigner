@@ -1,4 +1,4 @@
-## Bem Vindo ao meu perfil! eu sou o Guilherme
+## Olá! Eu sou o Guilherme
 
 
 - 🔭 Hoje estou trabalhando em uma escola de cursos preparatórios para consursos em meio período
