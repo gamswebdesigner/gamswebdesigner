@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Guilherme
 
 
-- 🔭 Hoje estou trabalhando em uma escola de cursos preparatórios para consursos em meio período
-- 🌱 Estou aprofundando meus conhecimentos em javascript e typescript
+- 🔭 Hoje estou administrando um sistema que desenvolvi para uma escola de cursos preparatórios
+- 🌱 Estou aprofundando meus conhecimentos em C# e Python
 - 📫 Podem me contatar atravez do meu email: *gamswebdesigner@gmail.com*
 - 😄 Pronouns: Ele/Dele
 
