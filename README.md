@@ -28,8 +28,4 @@
   
 <div>
   <a href="https://www.linkedin.com/in/gamswebdesigner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>  
-  
-<div><br>
-  <img align="left" alt="Gams-pic" height="180px" style="border-radius: 50px;" src="https://thumbs.gfycat.com/LoathsomeAngryEmperorpenguin-size_restricted.gif">
 </div>
